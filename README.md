@@ -7,7 +7,9 @@
 
 ### Ejercicios 
 #### Primer Parcial
-- [x] Ejercicios
+- Ejercicio 1
+- Ejercicio 2
+- Ejercicio 3
 
 #### Segundo Parcial
 
