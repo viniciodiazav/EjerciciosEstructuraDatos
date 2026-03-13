@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1773372191 source:/home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica05/main.cpp
+	<iostream>
+	"Calculadora.h"
+	"CalculadoraNueva.h"
+
+1773371779 source:/home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica05/src/Calculadora.cpp
+	"Calculadora.h"
+	<iostream>
+
+1773371710 /home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica05/include/Calculadora.h
+
+1773372311 source:/home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica05/src/CalculadoraNueva.cpp
+	"CalculadoraNueva.h"
+	<iostream>
+
+1773371971 /home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica05/include/CalculadoraNueva.h
+	"Calculadora.h"
+
