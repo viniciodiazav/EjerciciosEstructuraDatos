@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1773423650 source:/home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica01/main.cpp
+	<iostream>
+	"HolaMundo.h"
+
+1773452110 /home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica01/include/HolaMundo.h
+

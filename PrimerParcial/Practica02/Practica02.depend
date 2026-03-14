@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1773423996 source:/home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica02/main.cpp
+	<iostream>
+	"ClaseSuma.h"
+
+1773423859 source:/home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica02/src/ClaseSuma.cpp
+	"ClaseSuma.h"
+
+1773423833 /home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica02/include/ClaseSuma.h
+
