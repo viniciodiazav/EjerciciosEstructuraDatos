@@ -1,18 +1,16 @@
 #ifndef CALCULADORA_H
 #define CALCULADORA_H
 
-// Creando clase Calculadora
+// Creando clase calculadora
 class Calculadora
 {
     public:
         Calculadora();
         virtual ~Calculadora();
-        // Definiendo metodos de las operaciones basicas
+        // Definiendo metodos con diferentes parametros
+        int suma();
         int suma(int n1, int n2);
-        int resta(int n1, int n2);
-        int multiplicacion(int n1, int n2);
-        float division(int n1, int n2);
-
+        int suma(int m1, int n2, int n3);
     protected:
 
     private:

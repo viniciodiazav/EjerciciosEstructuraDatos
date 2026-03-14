@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1773501729 source:/home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica07/src/AutoPOO.cpp
+	"AutoPOO.h"
+
+1773501899 /home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica07/include/AutoPOO.h
+
+1773502212 source:/home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica07/src/PersonaPOO.cpp
+	"PersonaPOO.h"
+
+1773502264 /home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica07/include/PersonaPOO.h
+
+1773503415 source:/home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica07/main.cpp
+	<iostream>
+	"AutoPOO.h"
+	"PersonaPOO.h"
+
