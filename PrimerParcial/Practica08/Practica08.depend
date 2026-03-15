@@ -1,10 +1,10 @@
 # depslib dependency file v1.0
-1773532355 source:/home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica08/main.cpp
+1773532865 source:/home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica08/main.cpp
 	<iostream>
 	"Estadistica.h"
 
 1773532410 source:/home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica08/src/Estadistica.cpp
 	"Estadistica.h"
 
-1773505255 /home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica08/include/Estadistica.h
+1773532825 /home/viniciod/Documents/EstructuraDatos/PrimerParcial/Practica08/include/Estadistica.h
 

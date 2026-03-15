@@ -5,16 +5,18 @@ using namespace std;
 
 int main()
 {
-    float d[5];
+    // Instanciamos la clase Estadistica
+    Estadistica e = Estadistica();
+
+    // Rellenamos con valores el arreglo dentro de el objeto estadisitica
     for (int i = 0; i < 5; i++) {
         cout << "Ingrese el valor " << i + 1 << ": ";
-        cin >> d[i];
+        cin >> e.d[i];
     }
-    Estadistica e = Estadistica();
-    cout << "Promedio: " << e.promedio(d) << endl;
-    cout << "Minimo: " << e.minimo(d) << endl;
-    cout << "Maximo: " << e.maximo(d) << endl;
-    cout << "Suma: " << e.suma(d) << endl;
-    cout << "Media: " << e.media(d) << endl;
+    cout << "Promedio: " << e.promedio() << endl;
+    cout << "Minimo: " << e.minimo() << endl;
+    cout << "Maximo: " << e.maximo() << endl;
+    cout << "Suma: " << e.suma() << endl;
+    cout << "Media: " << e.media() << endl;
     return 0;
 }
